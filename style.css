@@ -2208,7 +2208,7 @@ input {
 @media (max-width: 490px) {
     .filter {
         width: 100vw;
-        height: 95vh;
+        height: 90vh;
         position: fixed;
         bottom: 0;
     }
